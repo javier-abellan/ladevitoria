@@ -2,9 +2,9 @@
 ---
 @import "{{ site.theme }}";
 
-// Tus cambios personalizados de diseño:
+// Cambios personalizados de diseño:
 body {
-  font-family: 'Georgia', serif; /* Una fuente más cómoda para leer reseñas */
+  font-family: 'Georgia', serif; /* Fuente más cómoda para leer reseñas */
   background-color: #fafafa;
 }
 
