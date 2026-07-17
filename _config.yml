@@ -3,3 +3,6 @@ description: Reseñas de libros.
 theme: minima
 baseurl: "/ladevitoria"
 url: "https://javier-abellan.github.io"
+
+lang: es
+timezone: Europe/Madrid
