@@ -1,0 +1,13 @@
+---
+---
+@import "{{ site.theme }}";
+
+// Tus cambios personalizados de diseño:
+body {
+  font-family: 'Georgia', serif; /* Una fuente más cómoda para leer reseñas */
+  background-color: #fafafa;
+}
+
+a {
+  color: #d32f2f; /* Color de los enlaces */
+}
